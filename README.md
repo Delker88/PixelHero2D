@@ -7,6 +7,8 @@
 <li>Shoot Arrow</li>
 <li>Jump</li>
 <li>Double Jump</li>
+<li>Ball Move</li>
+Ball_Move
 <h3>Bomba</h3>
 <li>Explotion</li>
 <h3>Arrow</h3>
@@ -22,4 +24,16 @@
 <li>Bomb</li>
 <h1>Previo del Juego</h1>
 <li>Salto y Doble Salto</li>
+![PixelHero2D salto y doble salto Gif](https://github.com/Delker88/PixelHero2D/assets/119042849/15d6cb8c-5791-47fd-9279-32d74b12f940)
+
+
+
 <li>Modo Bola, Bombas y explosion con destruccion de cajas</li>
+![PixelHero2D modo bola y bomba gif](https://github.com/Delker88/PixelHero2D/assets/119042849/418bf258-8755-407b-8484-d409af68e48d)
+
+
+
+
+<li>Modo dash</li>
+<li>Pickups de monedas y corazones</li>
+<li>Flechas</li>
