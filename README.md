@@ -1,5 +1,6 @@
 <h1 align="center">Pixel Hero 2D</h1>
-<h3>Es un juego tipo plataformas, donde tienes un heroe que recolecta monedas para desbloquear diferentes habilidades. El juego es de tipo pixel art 2D</h3>
+<h3 b>Descripcion</h3>
+Es un juego tipo plataformas, donde tienes un heroe que recolecta monedas para desbloquear diferentes habilidades. El juego es de tipo pixel art 2D.
 <h2 b></b>Animaciones</h2 b>
 <h3>Player</h3>
 <li>Idle</li>
@@ -8,7 +9,6 @@
 <li>Jump</li>
 <li>Double Jump</li>
 <li>Ball Move</li>
-Ball_Move
 <h3>Bomba</h3>
 <li>Explotion</li>
 <h3>Arrow</h3>
